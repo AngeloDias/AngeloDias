@@ -4,6 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelodesantana/?locale=en_US)](https://www.linkedin.com/in/angelodesantana/?locale=en_US)
 
 * Developer and manual tester for Android devices :robot:
+* 5 years of experience as a software developer :computer:
+* Almost 1 year of experience as manual tester for Android devices :boom:
 * I'm currently improving my developing and writing skills :computer: :book:
 * I'm currently learning how to make creative visuals :+1:
 
