@@ -1,4 +1,12 @@
-### Hi there 👋
+# Ângelo Dias
+
+[![Github Badge](https://img.shields.io/badge/-Repositories-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AngeloDias?tab=repositories)](https://github.com/AngeloDias?tab=repositories)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelodesantana/?locale=en_US)](https://www.linkedin.com/in/angelodesantana/?locale=en_US)
+
+* Developer and manual tester for Android devices :robot:
+* I'm currently improving my developing and writing skills :computer: :book:
+* I'm currently learning how to make creative visuals :+1:
+
 
 <!--
 **AngeloDias/AngeloDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
