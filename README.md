@@ -6,7 +6,7 @@
 * Developer and manual tester for Android devices :robot:
 * 5 years of experience as a software developer :computer:
 * Almost 1 year of experience as manual tester for Android devices :boom:
-* I'm currently improving my developing and writing skills :computer: :book:
+* I'm always improving my developing and writing skills :computer: :book:
 * I'm currently learning how to make creative visuals :+1:
 
 
