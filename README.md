@@ -24,3 +24,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Knowledge
+
+
+Tem conhecimentos em:
+- Linguagens de Programação: Java, Java para Android, Kotlin para Android, testes para Android (usando Mockito, MockK, Espresso e UI Automator) e Python (experiência com Pandas, NumPy, matplotlib, Jupyter Notebook e pacote Beautiful Soup).
+
+- Softwares e Ferramentas de Desenvolvimento: Eclipse IDE, Intellij IDEA, Android Studio, Visual Studio Code, Ubuntu Terminal e Git.
+
+- Banco de Dados: ORACLE, MySQL e Redis (instalação, configuração e conexão no Ubuntu).
+
+- Análise de Sistemas: Levantamento de Requisitos, Elaboração de documentação de Use Case e Diagramas UML, Modelagem de Banco de Dados, Desenvolvimento de Aplicações utilizando tecnologias Java seguindo o padrão de arquitetura MVC.
+
+- Testes manuais (de regressão e exploratórios) para dispositivos móveis.
+
+- Sistemas Operacionais: Windows e Linux.
