@@ -9,24 +9,14 @@
 * I'm always improving my developing and writing skills :computer: :book:
 * I'm currently learning how to make creative visuals :+1:
 
-
 <!--
-**AngeloDias/AngeloDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages and Technologies I use frequently
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 ## Knowledge
 
+[![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/AngeloDias/)](https://github.com/AngeloDias)
 
 Tem conhecimentos em:
 - Linguagens de Programação: Java, Java para Android, Kotlin para Android, testes para Android (usando Mockito, MockK, Espresso e UI Automator) e Python (experiência com Pandas, NumPy, matplotlib, Jupyter Notebook e pacote Beautiful Soup).
@@ -40,3 +30,4 @@ Tem conhecimentos em:
 - Testes manuais (de regressão e exploratórios) para dispositivos móveis.
 
 - Sistemas Operacionais: Windows e Linux.
+-->
