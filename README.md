@@ -5,16 +5,29 @@
 
 * Developer and manual tester for Android devices :robot:
 * 5 years of experience as a software developer :computer:
-* Almost 1 year of experience as manual tester for Android devices :boom:
+* Almost 1 year of experience as manual tester for Android devices :vibration_mode:
+* Currently in graduate school in software development by the [Emprel](https://www.emprel.gov.br/)-[CIn](https://portal.cin.ufpe.br/) partnership :office: :school:
+  * [The list of participants](https://drive.google.com/file/d/1x07Dd3hSlJWuyPxE1CAtcf6fLM4cMj3m/view)
 * I'm always improving my developing and writing skills :computer: :book:
-* I'm currently learning how to make creative visuals :+1:
+* I'm currently learning how to make creative visuals :rocket:
+
+## Knowledge
+
+- **Languages**: Java, Kotlin, Python, JavaScript, C++, C
+- **Mobile**: Android (Kotlin and Java), iOS (basic of Swift), React Native
+- **IDE**: Intellij IDEA, Android Studio, Visual Code, Eclipse, Xcode
+- **Databases**: SQLite, MySQL, PostgreSQL, Oracle, MongoDB
+- **Operational systems**: Linux, Windows
+- **Other technologies, frameworks and tools**: RxJava, RxAndroid, Kotlin Coroutines, Room, Espresso, UI Automator, Mockito, MockK, Pandas, NumPy, matplotlib, Jupyter Notebook and Beautiful Soup
+
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=angelodias&show_icons=true&title_color=2124B3&icon_color=2124B3&hide_border=true&custom_title=Ângelo Dias' GitHub stats">
 
 <!--
+Emojis: https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
+
 ## Languages and Technologies I use frequently
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-
-## Knowledge
 
 [![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/AngeloDias/)](https://github.com/AngeloDias)
 
