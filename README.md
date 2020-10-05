@@ -6,7 +6,7 @@
 * Developer and manual tester for Android devices :robot:
 * 5 years of experience as a software developer :computer:
 * Almost 1 year of experience as manual tester for Android devices :vibration_mode:
-* Currently in graduate school in software development by the [Emprel](https://www.emprel.gov.br/)-[CIn](https://portal.cin.ufpe.br/) partnership :office: :school:
+* Currently in graduate school in Software Development by the [Emprel](https://www.emprel.gov.br/)-[CIn](https://portal.cin.ufpe.br/) partnership :office: :school:
   * [The list of participants](https://drive.google.com/file/d/1x07Dd3hSlJWuyPxE1CAtcf6fLM4cMj3m/view)
 * I'm always improving my developing and writing skills :computer: :book:
 * I'm currently learning how to make creative visuals :rocket:
